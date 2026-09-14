@@ -128,8 +128,11 @@ DEPLOY
 
 ## 🔗 Links
 
-- [Landing Page](https://zinnnnooooo.github.io/zino_portfolio/)
-- [Notefolio](https://app.notion.com/p/8726ff23937f8248953401963e1a5bc1?source=copy_link)
+- **Landing Page**  
+  [랜딩페이지 바로가기](https://zinnnnooooo.github.io/zino_portfolio/)
+
+- **Notefolio**  
+  [노트폴리오 바로가기](https://app.notion.com/p/8726ff23937f8248953401963e1a5bc1?source=copy_link)
 
 ---
 
